@@ -8,7 +8,8 @@ class String
   end
 
   def question?
-
+#This method should return true if a string ends with a question mark and false if it does not.
+self.end_with?("?") 
   end
 
   def exclamation?
