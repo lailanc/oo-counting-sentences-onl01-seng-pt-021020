@@ -17,6 +17,6 @@ self.end_with?("!")
   end
 
   def count_sentences
-
+Right?".count_sentences
   end
 end
